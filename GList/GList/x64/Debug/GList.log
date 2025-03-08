@@ -1,0 +1,17 @@
+﻿GList.obj : error LNK2005: "int __cdecl Append(struct GLNode * &,struct GLNode *)" (?Append@@YAHAEAPEAUGLNode@@PEAU1@@Z) 已经在 GList test.obj 中定义
+GList.obj : error LNK2005: "struct GLNode * __cdecl CopyGList(struct GLNode *)" (?CopyGList@@YAPEAUGLNode@@PEAU1@@Z) 已经在 GList test.obj 中定义
+GList.obj : error LNK2005: "int __cdecl CreateGList(struct GLNode * &)" (?CreateGList@@YAHAEAPEAUGLNode@@@Z) 已经在 GList test.obj 中定义
+GList.obj : error LNK2005: "int __cdecl DestroyGList(struct GLNode * &)" (?DestroyGList@@YAHAEAPEAUGLNode@@@Z) 已经在 GList test.obj 中定义
+GList.obj : error LNK2005: "int __cdecl DleteHead(struct GLNode * &,struct GLNode * &)" (?DleteHead@@YAHAEAPEAUGLNode@@0@Z) 已经在 GList test.obj 中定义
+GList.obj : error LNK2005: "int __cdecl GListDepth(struct GLNode *)" (?GListDepth@@YAHPEAUGLNode@@@Z) 已经在 GList test.obj 中定义
+GList.obj : error LNK2005: "int __cdecl GListLength(struct GLNode *)" (?GListLength@@YAHPEAUGLNode@@@Z) 已经在 GList test.obj 中定义
+GList.obj : error LNK2005: "int __cdecl GListTraverse(struct GLNode *,int (__cdecl*)(char))" (?GListTraverse@@YAHPEAUGLNode@@P6AHD@Z@Z) 已经在 GList test.obj 中定义
+GList.obj : error LNK2005: "struct GLNode * __cdecl GList_parse(char const * *)" (?GList_parse@@YAPEAUGLNode@@PEAPEBD@Z) 已经在 GList test.obj 中定义
+GList.obj : error LNK2005: "struct GLNode * __cdecl GetHead(struct GLNode *)" (?GetHead@@YAPEAUGLNode@@PEAU1@@Z) 已经在 GList test.obj 中定义
+GList.obj : error LNK2005: "struct GLNode * __cdecl GetTail(struct GLNode *)" (?GetTail@@YAPEAUGLNode@@PEAU1@@Z) 已经在 GList test.obj 中定义
+GList.obj : error LNK2005: "int __cdecl GlistEmpty(struct GLNode *)" (?GlistEmpty@@YAHPEAUGLNode@@@Z) 已经在 GList test.obj 中定义
+GList.obj : error LNK2005: "void __cdecl InitGList(struct GLNode * &)" (?InitGList@@YAXAEAPEAUGLNode@@@Z) 已经在 GList test.obj 中定义
+GList.obj : error LNK2005: "int __cdecl InsertHead(struct GLNode * &,struct GLNode *)" (?InsertHead@@YAHAEAPEAUGLNode@@PEAU1@@Z) 已经在 GList test.obj 中定义
+GList.obj : error LNK2005: "struct GLNode * __cdecl MakeAtom(char)" (?MakeAtom@@YAPEAUGLNode@@D@Z) 已经在 GList test.obj 中定义
+GList.obj : error LNK2005: "int __cdecl visit(char)" (?visit@@YAHD@Z) 已经在 GList test.obj 中定义
+C:\Users\ronghui zhang\source\repos\GList\x64\Debug\GList.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

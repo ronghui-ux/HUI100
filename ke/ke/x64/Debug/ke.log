@@ -1,0 +1,26 @@
+﻿D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(ke.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Course-sort.cpp
+C:\Users\ronghui zhang\source\repos\ke\ke\x64\common.h(11,9): warning C4005: “ERROR”: 宏重定义
+  (编译源文件“x64/Course-sort.cpp”)
+      D:\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(118,9):
+      参见“ERROR”的前一个定义
+  
+C:\Users\ronghui zhang\source\repos\ke\ke\x64\Course-sort.cpp(465,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\ke\ke\x64\Course-sort.cpp(518,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\ke\ke\x64\Course-sort.cpp(526,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\ke\ke\x64\Course-sort.cpp(544,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\ke\ke\x64\Course-sort.cpp(549,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\ke\ke\x64\Course-sort.cpp(563,31): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\ke\ke\x64\Course-sort.cpp(575,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\ke\ke\x64\Course-sort.cpp(638,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\ke\ke\x64\Course-sort.cpp(654,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\ke\ke\x64\Course-sort.cpp(659,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\ke\ke\x64\Course-sort.cpp(674,31): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\ke\ke\x64\Course-sort.cpp(748,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\ke\ke\x64\Course-sort.cpp(756,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\ke\ke\x64\Course-sort.cpp(774,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\ke\ke\x64\Course-sort.cpp(779,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\ke\ke\x64\Course-sort.cpp(816,1): warning C4715: “Load_Balancing_without_limit”: 不是所有的控件路径都返回值
+C:\Users\ronghui zhang\source\repos\ke\ke\x64\Course-sort.cpp(604,1): warning C4715: “Load_Balancing”: 不是所有的控件路径都返回值
+C:\Users\ronghui zhang\source\repos\ke\ke\x64\Course-sort.cpp(710,1): warning C4715: “Pre_concentrated”: 不是所有的控件路径都返回值
+  ke.vcxproj -> C:\Users\ronghui zhang\source\repos\ke\x64\Debug\CourseSort.exe

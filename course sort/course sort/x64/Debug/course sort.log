@@ -1,0 +1,7 @@
+﻿  course test.cpp
+  course.cpp
+  正在生成代码...
+C:\Users\ronghui zhang\source\repos\course sort\course sort\course.cpp(13,1): warning C4715: “search”: 不是所有的控件路径都返回值
+C:\Users\ronghui zhang\source\repos\course sort\course sort\course.cpp(13,1): warning C4715: “search”: 不是所有的控件路径都返回值
+course.obj : error LNK2005: "int __cdecl search(struct VexNode *,char *,int)" (?search@@YAHPEAUVexNode@@PEADH@Z) 已经在 course test.obj 中定义
+C:\Users\ronghui zhang\source\repos\course sort\x64\Debug\course sort.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

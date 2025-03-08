@@ -1,0 +1,25 @@
+﻿  course1.cpp
+C:\Users\ronghui zhang\source\repos\course\course\course1.cpp(10,9): warning C4005: “ERROR”: 宏重定义
+      D:\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(118,9):
+      参见“ERROR”的前一个定义
+  
+C:\Users\ronghui zhang\source\repos\course\course\course1.cpp(543,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\course\course\course1.cpp(596,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\course\course\course1.cpp(604,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\course\course\course1.cpp(610,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\course\course\course1.cpp(614,35): warning C4305: “=”: 从“int”到“char”截断
+C:\Users\ronghui zhang\source\repos\course\course\course1.cpp(614,35): warning C4309: “=”: 截断常量值
+C:\Users\ronghui zhang\source\repos\course\course\course1.cpp(624,31): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\course\course\course1.cpp(635,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\course\course\course1.cpp(696,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\course\course\course1.cpp(702,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\course\course\course1.cpp(706,35): warning C4305: “=”: 从“int”到“char”截断
+C:\Users\ronghui zhang\source\repos\course\course\course1.cpp(706,35): warning C4309: “=”: 截断常量值
+C:\Users\ronghui zhang\source\repos\course\course\course1.cpp(717,31): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\course\course\course1.cpp(784,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\course\course\course1.cpp(792,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\course\course\course1.cpp(799,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ronghui zhang\source\repos\course\course\course1.cpp(750,1): warning C4715: “Pre_concentrated”: 不是所有的控件路径都返回值
+C:\Users\ronghui zhang\source\repos\course\course\course1.cpp(840,1): warning C4715: “Load_Balancing_without_limit”: 不是所有的控件路径都返回值
+C:\Users\ronghui zhang\source\repos\course\course\course1.cpp(662,1): warning C4715: “Load_Balancing”: 不是所有的控件路径都返回值
+  course.vcxproj -> C:\Users\ronghui zhang\source\repos\course\x64\Debug\course.exe
